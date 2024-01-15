@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Etuarda/Etuarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ola, sou a Eduarda
+Desenvolvedora de Software | Apaixonada por tecnologia 
 
-Here are some ideas to get you started:
+## Sobre Mim
+Olá! Sou um entusiasta da programação e apaixonado por desenvolvimento web. Minha jornada no mundo da tecnologia começou com a descoberta do JavaScript, e desde então tenho explorado e aprimorado minhas habilidades, especialmente no ecossistema Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que Conheço
+- JavaScript 
+- Node.js
+
+
+## Contato
+- LinkedIn: [Seu Nome no LinkedIn](www.linkedin.com/in/ettuarda)
