@@ -12,4 +12,4 @@ Olá! Sou um entusiasta da programação e apaixonado por desenvolvimento web. M
 
 
 ## Contato
-- LinkedIn: [Seu Nome no LinkedIn](www.linkedin.com/in/ettuarda)
+- LinkedIn:(www.linkedin.com/in/ettuarda)
