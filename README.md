@@ -1,15 +1,43 @@
-### Hi there 👋
+<h1 align="center">Olá! Eu sou a Eduarda 👩🏽‍💻</h1>
 
-# ola, sou a Eduarda
-Desenvolvedora de Software | Apaixonada por tecnologia 
+<p align="center">
+  Desenvolvedora Fullstack em formação | Explorando tecnologia com propósito e criatividade ✨
+</p>
 
-## Sobre Mim
-Olá! Sou um entusiasta da programação e apaixonado por desenvolvimento web. Minha jornada no mundo da tecnologia começou com a descoberta do JavaScript, e desde então tenho explorado e aprimorado minhas habilidades, especialmente no ecossistema Node.js.
+---
 
-### Tecnologias que Conheço
-- JavaScript 
-- Node.js
+### 🧠 Sobre mim
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUCRS (bolsista ProUni)
+- 💻 Certificada em Desenvolvimento Fullstack pela Cubos Academy
+- 🌱 Estudando Cloud Computing no Campinho Digital
+- 💡 Apaixonada por desenvolvimento, APIs, design e produtividade criativa
+
+---
+
+### 🛠️ Tecnologias & Nível de Conhecimento
+
+| Tecnologia     | Nível de conhecimento      |
+|----------------|----------------------------|
+| HTML           | 🟩🟩🟩🟩⬜ 80%                |
+| CSS            | 🟩🟩🟩⬜⬜ 60%                |
+| JavaScript     | 🟩🟩🟩🟩⬜ 80%                |
+| TypeScript     | 🟩🟩🟩⬜⬜ 60%                |
+| React          | 🟩🟩⬜⬜⬜ 40%                |
+| Node.js        | 🟩🟩🟩⬜⬜ 60%                |
+| SQL/PostgreSQL | 🟩🟩🟩⬜⬜ 60%                |
+| Python         | 🟩⬜⬜⬜⬜ 20%                |
+| Git/GitHub     | 🟩🟩🟩⬜⬜ 60%                |
+| Figma/Canva    | 🟩🟩⬜⬜⬜ 40%                |
+| Cloud (estudos)| 🟩⬜⬜⬜⬜ Em aprendizado     |
+
+> 🟩 Cada bloco representa cerca de 20% de proficiência prática.
+
+---
+
+### 📫 Contato
+
+- 📧 E-mail: ettuarda@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/itseduarda)  
 
 
-## Contato
-- LinkedIn:(www.linkedin.com/in/ettuarda)
+
