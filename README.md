@@ -22,7 +22,7 @@ Tenho certificações como:
 
 - **Desenvolvimento Web Full Stack — Cubos Academy**  
 - **Residencia em Análise de Dados — Instituto ECOA PUC-Rio**
-- **Introdução a Programação — Minas Programam**
+- **Introdução a Programação  — Minas Programam**
 
 Meu foco está em construir tecnologias simples mas eficazes, seguras e tecnicamente sólidas..
 
