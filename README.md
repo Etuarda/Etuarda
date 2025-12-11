@@ -58,9 +58,6 @@ Um banco digital fofo e gamificado, com metas ("caixinhas"), educação financei
 ### **HealthHub**  
 E-commerce completo (full stack) de produtos farmacêuticos.
 
-### **Series Journal**  
-CRUD React minimalista com foco em responsividade e experiência suave.
-
 ### **Job Tracker CLI**  
 Ferramenta em Node.js para organizar e visualizar aplicações de vagas com foco em clareza
 
