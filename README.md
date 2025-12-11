@@ -28,7 +28,7 @@ Meu foco está em construir tecnologias simples mas eficazes, seguras e tecnicam
 
 <br/>
 
-## 🌸 O que eu faço
+## O que eu faço
 
 ✨ Desenvolvimento de interfaces acessíveis e intuitivas  
 ✨ Arquitetura backend com Node.js + boas práticas   
@@ -36,7 +36,7 @@ Meu foco está em construir tecnologias simples mas eficazes, seguras e tecnicam
 
 <br/>
 
-## 🍃 Tecnologias favoritas
+##  Tecnologias favoritas <3
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,prisma,git,vscode&theme=light" />
@@ -61,7 +61,7 @@ E-commerce completo (full stack) de produtos farmacêuticos.
 ### **Job Tracker CLI**  
 Ferramenta em Node.js para organizar e visualizar aplicações de vagas com foco em clareza
 
-## 🍯 Onde me encontrar
+##  Onde me encontrar
 
 📌 **LinkedIn:** www.linkedin.com/in/itseduarda  
 📌 **E-mail:** ettuarda@gmail.com  
