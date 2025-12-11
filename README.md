@@ -12,17 +12,17 @@ Gosto de transformar ideias em produtos reais que acolhem, protegem e ensinam.
 
 Atualmente estudo:
 
-- **Análise e Desenvolvimento de Sistemas — PUCRS**  
-- **Inteligência Artificial — Capacitação Nacional IA (MCTI/USP/UFC)**
+- **Análise e Desenvolvimento de Sistemas - PUCRS**  
+- **Inteligência Artificial - Capacitação Nacional IA (MCTI/USP/UFC)**
 - **Desenvolvimento Web Full Stack - Progrmadores do Amanhã**
 
 
 Tenho certificações como:
 
 
-- **Desenvolvimento Web Full Stack — Cubos Academy**  
-- **Residencia em Análise de Dados — Instituto ECOA PUC-Rio**
-- **Introdução a Programação  — Minas Programam**
+- **Desenvolvimento Web Full Stack - Cubos Academy**  
+- **Residencia em Análise de Dados - Instituto ECOA PUC-Rio**
+- **Introdução a Programação - Minas Programam**
 
 Meu foco está em construir tecnologias simples mas eficazes, seguras e tecnicamente sólidas..
 
@@ -52,7 +52,7 @@ Meu foco está em construir tecnologias simples mas eficazes, seguras e tecnicam
 Aplicação web sigilosa com foco na segurança de mulheres durante trajetos e ambientes de risco.  
 Inclui: rotas seguras, registro de provas, chat seguro e modo disfarce (calculadora).
 
-### **MiuBank — Pet Financeiro**  
+### **MiuBank - Pet Financeiro**  
 Um banco digital fofo e gamificado, com metas ("caixinhas"), educação financeira e um pet que reage às ações do usuário.
 
 ### **HealthHub**  
