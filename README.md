@@ -4,7 +4,7 @@
 
 <br/>
 
-##  Eu sou
+##  Sobre mim
 
 Desenvolvedora **Full Stack** com grande interesse em **acessibilidade, impacto social, IA aplicada**.  
 Tenho um estilo de código limpo, organizado e guiado por propósito.  
